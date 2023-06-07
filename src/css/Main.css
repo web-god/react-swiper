@@ -1,0 +1,24 @@
+.main{
+   
+    height:auto;
+    width:100%;
+   
+    
+}
+
+h1{
+    color:white;
+}
+
+h2{
+    color:white;
+}
+
+hr{
+    width:full
+}
+
+
+.main>*{
+    margin-bottom:50px;
+}
